@@ -1,0 +1,1 @@
+This is the source for NBCraft's branding. All app icons, titles, and logos were created by [Vimdo](https://github.com/Vimd0).
